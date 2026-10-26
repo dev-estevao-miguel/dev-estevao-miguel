@@ -75,7 +75,22 @@ Atualmente mantenho projetos próprios, soluções internas e aplicações em pr
 - 💰 **Financeiro**
 - 🔄 **Sinc Trello**
 
-> Alguns projetos possuem código-fonte privado ou ainda serão publicados. Os respectivos links serão adicionados conforme os repositórios forem organizados no GitHub.
+> Alguns projetos possuem código-fonte privado, dados internos ou configurações sensíveis. Nesses casos, o projeto pode ser apresentado no portfólio sem expor código, credenciais, informações corporativas ou dados privados.
+
+## 🔒 Projetos privados e corporativos
+
+Parte das soluções que desenvolvo é utilizada em ambientes internos ou corporativos.
+
+Esses projetos podem permanecer privados por conterem:
+
+- dados internos;
+- integrações específicas;
+- configurações de ambiente;
+- informações operacionais;
+- credenciais e serviços externos;
+- regras de negócio particulares.
+
+Mesmo quando o código-fonte não é público, os projetos podem ser apresentados de forma profissional através de sua finalidade, status, arquitetura e tecnologias utilizadas, sem comprometer informações sensíveis.
 
 ## 📊 Estatísticas
 
@@ -87,6 +102,10 @@ Atualmente mantenho projetos próprios, soluções internas e aplicações em pr
 ## 🔗 Conecte-se comigo
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
+    <img src="https://img.shields.io/badge/LinkedIn-Estevão%20Miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
   <a href="https://github.com/dev-estevao-miguel">
     <img src="https://img.shields.io/badge/GitHub-dev--estevao--miguel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
