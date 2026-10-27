@@ -141,8 +141,8 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
   <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
     <img src="https://img.shields.io/badge/LinkedIn-Estevão%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Estevão dos Santos" />
   </a>
-  <a href="https://github.com/dev-estevao-miguel">
-    <img src="https://img.shields.io/badge/GitHub-dev--estevao--miguel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.instagram.com/estevaomsantos.25?mdxt=c2JkM2owc3Mxb25v&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-@estevaomsantos.25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @estevaomsantos.25" />
   </a>
   <a href="https://github.com/TechnologySolutionCompany">
     <img src="https://img.shields.io/badge/TSCBr-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="TSCBr" />
