@@ -1,10 +1,10 @@
-# Olá, eu sou Estevão dos Santos 👋
+# Olá, eu sou Estevão Miguel 👋
 
 **Desenvolvedor de Software • Desenvolvedor de Relatórios • Analista de Dados**
 
 Desenvolvo soluções voltadas a **software, dados, automação e sistemas corporativos**, unindo desenvolvimento de aplicações, SQL, relatórios, integrações e melhoria de processos.
 
-Minha atuação profissional envolve desde desenvolvimento de soluções corporativas e análise de dados até criação e manutenção de produtos próprios em produção.
+Minha atuação profissional envolve desde desenvolvimento de soluções corporativas e análise de dados até criação e manutenção de produtos próprios utilizados em ambientes reais.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
@@ -26,7 +26,7 @@ Minha atuação profissional envolve desde desenvolvimento de soluções corpora
 
 ### 💼 Desenvolvedor — Implantta
 
-Atuação no desenvolvimento e evolução de soluções voltadas ao ambiente corporativo, trabalhando com relatórios, banco de dados, SQL, automações, integrações e desenvolvimento de ferramentas internas.
+Atuação no desenvolvimento e evolução de soluções voltadas ao ambiente corporativo, trabalhando com **relatórios, banco de dados, SQL, automações, integrações e ferramentas internas**.
 
 ### 📊 Dados & Ecossistema Thomson Reuters
 
@@ -40,17 +40,13 @@ Fundador e responsável pelo desenvolvimento de produtos e soluções da **Techn
 
 **CNPJ:** 58.714.576/0001-09
 
-Na TSCBr desenvolvo projetos próprios voltados a software, automação, gestão, produtividade e soluções web.
-
 <a href="https://github.com/TechnologySolutionCompany">
   <img src="https://img.shields.io/badge/TSCBr-Technology%20Solution%20Company-181717?style=for-the-badge&logo=github&logoColor=white" alt="TSCBr" />
 </a>
 
 ### 🤝 Consultoria e projetos voluntários
 
-Também participo de **projetos voluntários de tecnologia**, oferecendo desenvolvimento e consultoria para iniciativas comunitárias e institucionais.
-
-Entre esses trabalhos estão projetos relacionados à **IEADPE**, aplicando tecnologia para organização, gestão e melhoria de processos internos.
+Também participo de projetos voluntários de tecnologia, oferecendo **desenvolvimento e consultoria** para iniciativas comunitárias e institucionais, incluindo projetos relacionados à **IEADPE**.
 
 ---
 
@@ -58,6 +54,10 @@ Entre esses trabalhos estão projetos relacionados à **IEADPE**, aplicando tecn
 
 <p align="left">
   <img alt="SQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  &nbsp;
+  <img alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  &nbsp;
+  <img alt=".NET" title=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
   &nbsp;
   <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   &nbsp;
@@ -84,26 +84,11 @@ Entre esses trabalhos estão projetos relacionados à **IEADPE**, aplicando tecn
   <img alt="VS Code" title="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
-**Também utilizo:** Supabase • Vercel • APIs • bancos de dados relacionais • automações • integrações entre sistemas.
+**Também utilizo:** Supabase • Vercel • WPF • PowerShell • SQL Anywhere • APIs • automações • integrações entre sistemas.
 
 ---
 
-## 💼 Principais áreas de atuação
-
-- Desenvolvimento de Software
-- Desenvolvimento de Aplicações Web
-- Desenvolvimento de Relatórios
-- SQL e Banco de Dados
-- Análise de Dados
-- Automação de Processos
-- APIs e Integrações
-- Sistemas Corporativos
-- Ferramentas Internas
-- Consultoria em Tecnologia
-
----
-
-# 🚀 Projetos em destaque
+# 🚀 Projetos
 
 ## ⭐ WebCond
 
@@ -111,7 +96,7 @@ Entre esses trabalhos estão projetos relacionados à **IEADPE**, aplicando tecn
 
 Meu maior projeto desenvolvido até o momento, criado para centralizar processos administrativos e melhorar a interação entre gestão condominial e moradores.
 
-**Tecnologias:**
+**Tecnologias**
 
 `React` `Vite` `JavaScript` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA`
 
@@ -129,30 +114,63 @@ Meu maior projeto desenvolvido até o momento, criado para centralizar processos
 
 ---
 
-## 🌐 TSCBr
+## 🗄️ Banco Pronto
 
-Desenvolvimento e manutenção dos projetos pertencentes ao ecossistema da **Technology Solution Company**.
+**Automação da preparação e validação de ambientes de banco de dados.**
 
-Entre eles estão soluções voltadas para:
+Solução real desenvolvida para apoiar rotinas no ecossistema **Thomson Reuters | Domínio Sistemas**, automatizando etapas relacionadas à preparação de bancos a partir de backups completos e incrementais.
 
-- gestão;
-- produtividade;
-- automação;
-- ferramentas corporativas;
-- aplicações web;
-- integração entre sistemas.
+A versão disponível publicamente foi criada especificamente para demonstração e portfólio, sem dados, credenciais ou integrações internas.
+
+**Tecnologias**
+
+`C#` `.NET 8` `WPF` `MVVM` `xUnit` `PowerShell`
 
 <p align="left">
-  <a href="https://github.com/TechnologySolutionCompany">
-    <img src="https://img.shields.io/badge/Ver%20TSCBr-GitHub-181717?style=for-the-badge&logo=github" alt="TSCBr GitHub" />
+  <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Banco-Pronto-Demo">
+    <img src="https://img.shields.io/badge/📂_Ver-Banco%20Pronto%20Demo-181717?style=for-the-badge&logo=github" alt="Banco Pronto Demo" />
   </a>
 </p>
+
+**Status:** 🟢 Solução original em uso • 🧪 Demo pública
+
+---
+
+## 🔎 Busca Tabelas
+
+**Ferramenta para pesquisa e análise de metadados de bancos SQL.**
+
+Desenvolvida para apoiar análise e desenvolvimento de relatórios no ecossistema **Thomson Reuters | Domínio Sistemas**.
+
+Permite pesquisar tabelas, colunas e metadados, montar SELECTs e gerar contexto em Markdown para auxiliar na análise de SQL com ferramentas de IA.
+
+A versão pública utiliza exclusivamente dados fictícios e funciona offline.
+
+**Tecnologias**
+
+`C#` `.NET 8` `WPF` `MVVM` `PowerShell` `ODBC` `SQL` `xUnit`
+
+<p align="left">
+  <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Busca-Tabelas-Demo">
+    <img src="https://img.shields.io/badge/📂_Ver-Busca%20Tabelas%20Demo-181717?style=for-the-badge&logo=github" alt="Busca Tabelas Demo" />
+  </a>
+</p>
+
+**Status:** 🟢 Solução original em uso • 🧪 Demo pública
+
+> Thomson Reuters e Domínio Sistemas são marcas de seus respectivos proprietários. As versões públicas acima são projetos demonstrativos independentes e não constituem produtos oficiais da Thomson Reuters.
 
 ---
 
 ## 🍔 Hub Food
 
-Aplicação web desenvolvida para apoio a processos internos e gestão de informações.
+**Aplicação desenvolvida para organização e gestão de processos internos.**
+
+Sistema criado para apoiar atividades operacionais da empresa, centralizando informações e tornando processos internos mais organizados e rastreáveis.
+
+**Tecnologias**
+
+`React` `TypeScript` `Vite` `ExcelJS` `jsPDF`
 
 **Status:** 🟢 Em produção  
 **Código-fonte:** 🔒 Privado
@@ -161,30 +179,118 @@ Aplicação web desenvolvida para apoio a processos internos e gestão de inform
 
 ## 📅 IEADPE — Escala Local
 
-Projeto desenvolvido de forma voluntária para auxiliar na organização e gerenciamento de escalas locais.
+**Sistema para organização das escalas internas das congregações.**
 
-Além do desenvolvimento, o trabalho envolve levantamento de necessidades e aplicação de tecnologia para melhoria dos processos.
+Projeto desenvolvido voluntariamente para auxiliar na gestão e organização das escalas locais, reduzindo processos manuais e centralizando informações.
 
-**Atuação:** 🤝 Desenvolvimento e consultoria voluntária
+Além do desenvolvimento, o projeto envolve levantamento de necessidades e consultoria na aplicação da tecnologia aos processos existentes.
+
+**Atuação**
+
+`Desenvolvimento` `Consultoria` `Projeto voluntário`
+
+**Status:** 🟢 Em uso
 
 ---
 
-## 📂 Outros projetos
+## 🙋 IEADPE — Eu Vou
 
-Também desenvolvo e mantenho outros projetos em produção ou desenvolvimento, incluindo:
+**Plataforma de participação e engajamento da juventude da igreja.**
 
-**🟢 Em produção**
+Projeto voltado para jovens e adolescentes, reunindo agenda, presença, atividades, desafios e reconhecimento da participação.
 
-- Banco Pronto
-- Busca Tabelas
-- Install Office TSCBr
-- Site da TSCBr
-- Projetos Develop Implantta
+O objetivo é utilizar tecnologia para incentivar presença, comunhão e envolvimento nas atividades da igreja.
 
-**🟡 Em desenvolvimento**
+**Conceitos**
 
-- Financeiro
-- Sinc Trello
+`Agenda` `Presença` `Missões` `Ranking` `Engajamento`
+
+**Status:** 🟡 Em desenvolvimento
+
+---
+
+## 📊 Implantta — Desenvolvimento de Relatórios
+
+**Extensão interna para organização e encaminhamento de chamados.**
+
+Ferramenta desenvolvida para auxiliar no fluxo de demandas destinadas à equipe de desenvolvimento de relatórios, tornando o encaminhamento e acompanhamento dos chamados mais organizado.
+
+**Aplicação**
+
+`Automação` `Fluxo interno` `Produtividade` `Integração`
+
+**Status:** 🟢 Em uso  
+**Código-fonte:** 🔒 Corporativo / privado
+
+---
+
+## 🛠️ Implantta — Suporte e Acompanhamento
+
+**Extensão interna para gerenciamento e acompanhamento de chamados de suporte.**
+
+Desenvolvida para auxiliar o fluxo interno da equipe, facilitando encaminhamento, acompanhamento e organização das demandas de suporte.
+
+**Aplicação**
+
+`Automação` `Suporte` `Fluxo interno` `Produtividade`
+
+**Status:** 🟢 Em uso  
+**Código-fonte:** 🔒 Corporativo / privado
+
+---
+
+## 💿 Install Office
+
+**Ferramenta para instalação orientada do Microsoft Office.**
+
+Projeto criado para facilitar a instalação completa do pacote Office de forma organizada, utilizando os meios oficiais de instalação e reduzindo etapas manuais do processo.
+
+**Aplicação**
+
+`Automação` `Windows` `Instalação` `Produtividade`
+
+**Status:** 🟢 Em uso
+
+---
+
+## 🔄 Sinc Trello
+
+**Sincronização entre armazenamento local e demandas do Trello.**
+
+Ferramenta criada para sincronizar arquivos e estruturas do disco local com demandas registradas no Trello, apoiando o acompanhamento das atividades realizadas na Implantta.
+
+**Aplicação**
+
+`Trello` `Automação` `Sincronização` `Fluxo de trabalho`
+
+**Status:** 🟡 Em desenvolvimento / uso interno  
+**Código-fonte:** 🔒 Privado
+
+---
+
+## 🌐 Site da TSCBr
+
+**Site institucional da Technology Solution Company.**
+
+Projeto responsável pela apresentação institucional da TSCBr, seus serviços, posicionamento e canais de contato.
+
+**Tecnologias**
+
+`React` `Vite` `JavaScript` `CSS` `Vercel`
+
+<p align="left">
+  <a href="https://github.com/TechnologySolutionCompany/tsc-alfa.V6.3.2">
+    <img src="https://img.shields.io/badge/📂_Repositório-Site%20TSCBr-181717?style=for-the-badge&logo=github" alt="Site TSCBr" />
+  </a>
+</p>
+
+**Status:** 🟢 Em produção
+
+---
+
+## 📂 Portfólio completo
+
+Todos os projetos, estudos e soluções podem ser acompanhados no meu repositório de portfólio.
 
 <p align="left">
   <a href="https://github.com/dev-estevao-miguel/PortFolio">
@@ -192,7 +298,7 @@ Também desenvolvo e mantenho outros projetos em produção ou desenvolvimento, 
   </a>
 </p>
 
-> 🔒 Alguns projetos corporativos ou aplicações em produção permanecem privados por conterem regras de negócio, integrações e informações internas.
+> 🔒 Alguns projetos corporativos permanecem privados por conterem regras de negócio, integrações, informações internas ou dados que não devem fazer parte de um repositório público.
 
 ---
 
