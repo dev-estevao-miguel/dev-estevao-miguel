@@ -66,10 +66,10 @@ Centraliza processos administrativos e melhora a interação entre gestão condo
 
 <p>
   <a href="https://webcond.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Acessar-WebCond-2ea44f?style=for-the-badge" alt="Acessar WebCond" />
+    <img src="https://img.shields.io/badge/ACESSAR-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar WebCond" />
   </a>
   <a href="https://github.com/TechnologySolutionCompany/WebCond">
-    <img src="https://img.shields.io/badge/📂_Repositório-WebCond-181717?style=for-the-badge&logo=github" alt="Repositório WebCond" />
+    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-WEBCOND-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório WebCond" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Duas ferramentas desenvolvidas para apoiar rotinas reais de análise, preparaç�
 | Automatiza a preparação e validação de ambientes de banco de dados a partir de backups completos e incrementais. | Pesquisa metadados de bancos SQL, localiza tabelas e colunas, gera SELECTs e exporta contexto para revisão com IA. |
 | `C#` `.NET 8` `WPF` `MVVM` `xUnit` `PowerShell` | `C#` `.NET 8` `WPF` `MVVM` `PowerShell` `ODBC` `SQL` `xUnit` |
 | 🟢 Solução original em uso · 🧪 Demo pública | 🟢 Solução original em uso · 🧪 Demo pública |
-| [📂 Ver Banco Pronto Demo](https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Banco-Pronto-Demo) | [📂 Ver Busca Tabelas Demo](https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Busca-Tabelas-Demo) |
+| <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Banco-Pronto-Demo"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-BANCO%20PRONTO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Banco Pronto"></a> | <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Busca-Tabelas-Demo"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-BUSCA%20TABELAS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Busca Tabelas"></a> |
 
 > Thomson Reuters e Domínio Sistemas são marcas de seus respectivos proprietários. Os projetos públicos acima são demonstrações independentes e não constituem produtos oficiais da Thomson Reuters.
 
@@ -102,7 +102,7 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
 
 <p>
   <a href="https://github.com/TechnologySolutionCompany/Install-Office">
-    <img src="https://img.shields.io/badge/📂_Repositório-Install%20Office-181717?style=for-the-badge&logo=github" alt="Install Office" />
+    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-INSTALL%20OFFICE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Install Office" />
   </a>
 </p>
 
@@ -114,19 +114,19 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
 
 ## 📦 Outros projetos
 
-| Projeto | Contexto | Status |
-|---|---|---|
-| **Hub Food** | Aplicação interna para organização e gestão de processos | 🟢 Em produção · 🔒 Privado |
-| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🤝 Voluntário |
-| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🤝 Voluntário |
-| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo |
-| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo |
-| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🔒 Privado |
-| **Site da TSCBr** | Site institucional da Technology Solution Company | 🟢 Em produção |
+| Projeto | Contexto | Status | Repositório |
+|---|---|---|---|
+| **Hub Food** | **Plataforma de gestão de estoque de fardas** | 🟢 Em produção · 🔒 Privado | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
+| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🤝 Voluntário | <img src="https://img.shields.io/badge/REPOSITÓRIO-EM%20ORGANIZAÇÃO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório em organização"> |
+| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🤝 Voluntário | <img src="https://img.shields.io/badge/REPOSITÓRIO-EM%20ORGANIZAÇÃO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório em organização"> |
+| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
+| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
+| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🔒 Privado | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
+| **Site da TSCBr** | Site institucional da Technology Solution Company | 🟢 Em produção | <a href="https://github.com/TechnologySolutionCompany/tsc-alfa.V6.3.2"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-SITE%20TSCBR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Site TSCBr"></a> |
 
 <p align="center">
   <a href="https://github.com/dev-estevao-miguel/PortFolio">
-    <img src="https://img.shields.io/badge/Ver%20Portfólio%20Completo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio completo" />
+    <img src="https://img.shields.io/badge/VER%20PORTFÓLIO-PROJETOS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio completo" />
   </a>
 </p>
 
