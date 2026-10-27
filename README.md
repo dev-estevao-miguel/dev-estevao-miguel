@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=143A66&height=120&section=header" alt="header"/>
 
-<h1 align="center">Estevão Miguel</h1>
+<h1 align="center">Estevão dos Santos</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
-    <img src="https://img.shields.io/badge/LinkedIn-Estevão%20Miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Estevão%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Estevão dos Santos" />
   </a>
   <a href="https://github.com/dev-estevao-miguel/PortFolio">
     <img src="https://img.shields.io/badge/Portfólio-Projetos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
@@ -54,28 +54,21 @@
 
 ---
 
-# 🚀 Projetos em destaque
+# 🌟 Principais projetos
 
-## ⭐ WebCond
+Os dois projetos mais completos e elaborados do meu portfólio atualmente são o **WebCond** e o **Site Oficial da TSCBr**, ambos desenvolvidos e mantidos como produtos reais.
 
-**Plataforma web para gestão condominial e meu projeto mais completo até o momento.**
-
-Centraliza processos administrativos e melhora a interação entre gestão condominial e moradores, com arquitetura web moderna e integração com serviços de dados e autenticação.
-
-`React` `Vite` `JavaScript` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA`
-
-<p>
-  <a href="https://webcond.vercel.app">
-    <img src="https://img.shields.io/badge/ACESSAR-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar WebCond" />
-  </a>
-  <a href="https://github.com/TechnologySolutionCompany/WebCond">
-    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-WEBCOND-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório WebCond" />
-  </a>
-</p>
-
-**Status:** 🟢 Em produção
+| ⭐ **WebCond** | 🌐 **Site Oficial TSCBr** |
+|---|---|
+| **Plataforma web para gestão condominial.** Centraliza processos administrativos e melhora a interação entre gestão condominial e moradores, com arquitetura moderna, autenticação, dados e recursos de PWA. | **Portal institucional oficial da Technology Solution Company.** Projeto responsável pela presença digital da TSCBr, apresentação da empresa, serviços, posicionamento e evolução da identidade digital da marca. |
+| `React` `Vite` `JavaScript` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA` | `React` `Vite` `JavaScript` `CSS` `Vercel` |
+| 🟢 **Em produção** | 🟢 **Em produção · Em evolução** |
+| <a href="https://webcond.vercel.app"><img src="https://img.shields.io/badge/ACESSAR-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar WebCond"></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/ACESSAR-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Site TSCBr"></a> |
+| <a href="https://github.com/TechnologySolutionCompany/WebCond"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-WEBCOND-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório WebCond"></a> | <a href="https://github.com/TechnologySolutionCompany/tsc-alfa.V6.3.2"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-SITE%20TSCBR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Site TSCBr"></a> |
 
 ---
+
+# 🚀 Outros projetos em destaque
 
 ## 📊 Ecossistema Thomson Reuters | Domínio Sistemas
 
@@ -122,7 +115,6 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
 | **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
 | **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
 | **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🔒 Privado | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
-| **Site da TSCBr** | Site institucional da Technology Solution Company | 🟢 Em produção | <a href="https://github.com/TechnologySolutionCompany/tsc-alfa.V6.3.2"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-SITE%20TSCBR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Site TSCBr"></a> |
 
 <p align="center">
   <a href="https://github.com/dev-estevao-miguel/PortFolio">
@@ -137,7 +129,7 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-estevao-miguel&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-estevao-miguel&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub de Estevão dos Santos" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-estevao-miguel&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
@@ -147,7 +139,7 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
 
 <p align="center">
   <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
-    <img src="https://img.shields.io/badge/LinkedIn-Estevão%20Miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Estevão%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Estevão dos Santos" />
   </a>
   <a href="https://github.com/dev-estevao-miguel">
     <img src="https://img.shields.io/badge/GitHub-dev--estevao--miguel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
