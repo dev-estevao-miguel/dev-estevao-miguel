@@ -109,12 +109,12 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
 
 | Projeto | Contexto | Status | Repositório |
 |---|---|---|---|
-| **Hub Food** | **Plataforma de gestão de estoque de fardas** | 🟢 Em produção · 🔒 Privado | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
-| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🤝 Voluntário | <img src="https://img.shields.io/badge/REPOSITÓRIO-EM%20ORGANIZAÇÃO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório em organização"> |
-| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🤝 Voluntário | <img src="https://img.shields.io/badge/REPOSITÓRIO-EM%20ORGANIZAÇÃO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório em organização"> |
-| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
-| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
-| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🔒 Privado | <img src="https://img.shields.io/badge/REPOSITÓRIO-PRIVADO-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Repositório privado"> |
+| **Hub Food** | **Plataforma de gestão de estoque de fardas** | 🟢 Em produção · 🔒 Privado | <a href="https://github.com/dev-estevao-miguel/hubfood-rh"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-PRIVADO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório privado Hub Food"></a> |
+| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🤝 Voluntário | 🛠️ Em organização |
+| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🤝 Voluntário | 🛠️ Em organização |
+| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo | 🔒 Privado |
+| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo | 🔒 Privado |
+| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🔒 Privado | 🔒 Privado |
 
 <p align="center">
   <a href="https://github.com/dev-estevao-miguel/PortFolio">
