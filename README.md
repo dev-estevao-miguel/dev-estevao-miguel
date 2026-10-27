@@ -32,7 +32,7 @@
 - 📊 Atuação com **dados e desenvolvimento de soluções no ecossistema Thomson Reuters | Domínio Sistemas**, através da Implantta.
 - 🚀 **CEO & Developer da TSCBr — Technology Solution Company** · CNPJ **58.714.576/0001-09**.
 - 🤝 Participação em **projetos voluntários e consultoria em tecnologia**, incluindo iniciativas da IEADPE.
-- 🧠 Interesse principal em construir soluções que saem do papel e entram em uso real.
+- 🧠 Foco em construir soluções que saem do papel e entram em uso real.
 
 ---
 
@@ -77,39 +77,16 @@ Centraliza processos administrativos e melhora a interação entre gestão condo
 
 ---
 
-## 🗄️ Banco Pronto
+## 📊 Ecossistema Thomson Reuters | Domínio Sistemas
 
-**Automação da preparação e validação de ambientes de banco de dados.**
+Duas ferramentas desenvolvidas para apoiar rotinas reais de análise, preparação de ambientes e desenvolvimento de relatórios no ecossistema **Thomson Reuters | Domínio Sistemas**. As versões públicas são demonstrações sanitizadas, sem dados de clientes, credenciais ou integrações internas.
 
-Solução desenvolvida para apoiar rotinas no ecossistema **Thomson Reuters | Domínio Sistemas**. A versão pública foi reimplementada para demonstração, preservando o conceito e a arquitetura sem expor dados, credenciais ou integrações internas.
-
-`C#` `.NET 8` `WPF` `MVVM` `xUnit` `PowerShell`
-
-<p>
-  <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Banco-Pronto-Demo">
-    <img src="https://img.shields.io/badge/📂_Ver-Banco%20Pronto%20Demo-181717?style=for-the-badge&logo=github" alt="Banco Pronto Demo" />
-  </a>
-</p>
-
-**Status:** 🟢 Solução original em uso • 🧪 Demo pública
-
----
-
-## 🔎 Busca Tabelas
-
-**Ferramenta desktop para pesquisa e análise de metadados de bancos SQL.**
-
-Criada para apoiar análise e desenvolvimento de relatórios no ecossistema **Thomson Reuters | Domínio Sistemas**, permitindo localizar tabelas e colunas, gerar SELECTs e exportar contexto para revisão com IA.
-
-`C#` `.NET 8` `WPF` `MVVM` `PowerShell` `ODBC` `SQL` `xUnit`
-
-<p>
-  <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Busca-Tabelas-Demo">
-    <img src="https://img.shields.io/badge/📂_Ver-Busca%20Tabelas%20Demo-181717?style=for-the-badge&logo=github" alt="Busca Tabelas Demo" />
-  </a>
-</p>
-
-**Status:** 🟢 Solução original em uso • 🧪 Demo pública
+| 🗄️ **Banco Pronto** | 🔎 **Busca Tabelas** |
+|---|---|
+| Automatiza a preparação e validação de ambientes de banco de dados a partir de backups completos e incrementais. | Pesquisa metadados de bancos SQL, localiza tabelas e colunas, gera SELECTs e exporta contexto para revisão com IA. |
+| `C#` `.NET 8` `WPF` `MVVM` `xUnit` `PowerShell` | `C#` `.NET 8` `WPF` `MVVM` `PowerShell` `ODBC` `SQL` `xUnit` |
+| 🟢 Solução original em uso · 🧪 Demo pública | 🟢 Solução original em uso · 🧪 Demo pública |
+| [📂 Ver Banco Pronto Demo](https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Banco-Pronto-Demo) | [📂 Ver Busca Tabelas Demo](https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Busca-Tabelas-Demo) |
 
 > Thomson Reuters e Domínio Sistemas são marcas de seus respectivos proprietários. Os projetos públicos acima são demonstrações independentes e não constituem produtos oficiais da Thomson Reuters.
 
@@ -117,13 +94,21 @@ Criada para apoiar análise e desenvolvimento de relatórios no ecossistema **Th
 
 ## 💿 Install Office
 
-**Ferramenta para automatizar etapas da instalação do Microsoft Office utilizando recursos oficiais da Microsoft.**
+**Ferramenta independente para automatizar e simplificar a instalação do Microsoft Office utilizando recursos oficiais da Microsoft.**
 
-Projeto voltado à redução de etapas manuais e padronização do processo de instalação. A versão pública será disponibilizada sem mecanismos de ativação não oficiais.
+A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office Deployment Tool, validação de assinatura digital, verificação de pré-requisitos e confirmação real do resultado da instalação.
 
-`Windows` `Automação` `Instalação` `Produtividade`
+`C#` `.NET 10` `WPF` `PowerShell` `Office Deployment Tool` `Windows APIs`
 
-**Status:** 🟢 Solução em uso • 🛠️ Versão pública em preparação
+<p>
+  <a href="https://github.com/TechnologySolutionCompany/Install-Office">
+    <img src="https://img.shields.io/badge/📂_Repositório-Install%20Office-181717?style=for-the-badge&logo=github" alt="Install Office" />
+  </a>
+</p>
+
+**Status:** 🟢 Em uso · 🌐 Versão pública disponível
+
+> A versão pública não inclui mecanismos de ativação não oficiais. A ativação deve ser realizada com licença válida ou mecanismos oficiais de licenciamento da Microsoft.
 
 ---
 
