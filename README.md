@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
     <img src="https://img.shields.io/badge/LinkedIn-Estevão%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Estevão dos Santos" />
   </a>
-  <a href="https://github.com/dev-estevao-miguel/PortFolio">
-    <img src="https://img.shields.io/badge/Portfólio-Projetos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
+  <a href="https://www.instagram.com/estevaomsantos.25">
+    <img src="https://img.shields.io/badge/Instagram-@estevaomsantos.25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @estevaomsantos.25" />
   </a>
   <a href="https://github.com/TechnologySolutionCompany">
     <img src="https://img.shields.io/badge/TSCBr-Technology%20Solution%20Company-181717?style=for-the-badge&logo=github&logoColor=white" alt="TSCBr" />
@@ -31,8 +31,8 @@
 - 💼 **Desenvolvedor na Implantta**, atuando com relatórios, banco de dados, SQL, automações, integrações e ferramentas internas.
 - 📊 Atuação com **dados e desenvolvimento de soluções no ecossistema Thomson Reuters | Domínio Sistemas**, através da Implantta.
 - 🚀 **CEO & Developer da TSCBr — Technology Solution Company** · CNPJ **58.714.576/0001-09**.
-- 🤝 Participação em **projetos voluntários e consultoria em tecnologia**, incluindo iniciativas da IEADPE.
-- 🧠 Foco em construir soluções que saem do papel e entram em uso real.
+- 🤝 Desenvolvimento e consultoria voluntária em projetos de tecnologia ligados à **IEADPE**.
+- 🧠 Foco em construir soluções que saem do papel, entram em uso real e continuam evoluindo.
 
 ---
 
@@ -50,36 +50,36 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)](https://skillicons.dev)
 
-**Também utilizo:** SQL • WPF • PowerShell • SQL Anywhere • APIs • automações • integrações entre sistemas.
+**Também utilizo:** SQL • WPF • PowerShell • SQL Anywhere • APIs • PWA • automações • integrações entre sistemas.
 
 ---
 
 # 🌟 Principais projetos
 
-Os dois projetos mais completos e elaborados do meu portfólio atualmente são o **WebCond** e o **Site Oficial da TSCBr**, ambos desenvolvidos e mantidos como produtos reais.
+Os dois projetos mais completos do meu portfólio hoje são o **WebCond** e o **Site Oficial da TSCBr**, ambos em produção e evolução contínua.
 
 | ⭐ **WebCond** | 🌐 **Site Oficial TSCBr** |
 |---|---|
-| **Plataforma web para gestão condominial.** Centraliza processos administrativos e melhora a interação entre gestão condominial e moradores, com arquitetura moderna, autenticação, dados e recursos de PWA. | **Portal institucional oficial da Technology Solution Company.** Projeto responsável pela presença digital da TSCBr, apresentação da empresa, serviços, posicionamento e evolução da identidade digital da marca. |
-| `React` `Vite` `JavaScript` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA` | `React` `Vite` `JavaScript` `CSS` `Vercel` |
-| 🟢 **Em produção** | 🟢 **Em produção · Em evolução** |
-| <a href="https://webcond.vercel.app"><img src="https://img.shields.io/badge/ACESSAR-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar WebCond"></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/ACESSAR-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Site TSCBr"></a> |
-| <a href="https://github.com/TechnologySolutionCompany/WebCond"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-WEBCOND-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório WebCond"></a> | <a href="https://github.com/TechnologySolutionCompany/tsc-alfa.V6.3.2"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-SITE%20TSCBR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Site TSCBr"></a> |
+| **Plataforma web para gestão condominial.** Centraliza processos administrativos, unidades, moradores, cobranças, documentos, avisos, ocorrências e comunicação. | **Portal institucional da Technology Solution Company.** Responsável pela presença digital, serviços, posicionamento e identidade da TSCBr. |
+| `React` `Vite` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA` | `React` `Vite` `JavaScript` `CSS` `Vercel` |
+| 🟢 **Em produção · Evolução contínua** | 🟢 **Em produção · Em evolução** |
+| <a href="https://webcond.vercel.app"><img src="https://img.shields.io/badge/VER%20PROJETO-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver WebCond"></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/VER%20PROJETO-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Site TSCBr"></a> |
+| 🔒 Repositório privado | 🔒 Repositório privado |
 
 ---
 
-# 🚀 Outros projetos em destaque
+# 🚀 Projetos públicos em destaque
 
 ## 📊 Ecossistema Thomson Reuters | Domínio Sistemas
 
-Duas ferramentas desenvolvidas para apoiar rotinas reais de análise, preparação de ambientes e desenvolvimento de relatórios no ecossistema **Thomson Reuters | Domínio Sistemas**. As versões públicas são demonstrações sanitizadas, sem dados de clientes, credenciais ou integrações internas.
+Versões demonstrativas sanitizadas de duas ferramentas desenvolvidas para apoiar rotinas reais de análise, preparação de ambientes e desenvolvimento de relatórios. Os dados e exemplos públicos são fictícios e não incluem credenciais, informações de clientes ou integrações privadas.
 
 | 🗄️ **Banco Pronto** | 🔎 **Busca Tabelas** |
 |---|---|
 | Automatiza a preparação e validação de ambientes de banco de dados a partir de backups completos e incrementais. | Pesquisa metadados de bancos SQL, localiza tabelas e colunas, gera SELECTs e exporta contexto para revisão com IA. |
 | `C#` `.NET 8` `WPF` `MVVM` `xUnit` `PowerShell` | `C#` `.NET 8` `WPF` `MVVM` `PowerShell` `ODBC` `SQL` `xUnit` |
 | 🟢 Solução original em uso · 🧪 Demo pública | 🟢 Solução original em uso · 🧪 Demo pública |
-| <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Banco-Pronto-Demo"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-BANCO%20PRONTO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Banco Pronto"></a> | <a href="https://github.com/dev-estevao-miguel/Ferramentas-para-Thomson-Dominio-Sistemas/tree/main/Busca-Tabelas-Demo"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-BUSCA%20TABELAS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Busca Tabelas"></a> |
+| <a href="https://github.com/dev-estevao-miguel/ferramentas-dominio-sistemas/tree/main/Banco-Pronto-Demo"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-BANCO%20PRONTO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Banco Pronto"></a> | <a href="https://github.com/dev-estevao-miguel/ferramentas-dominio-sistemas/tree/main/Busca-Tabelas-Demo"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-BUSCA%20TABELAS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Busca Tabelas"></a> |
 
 > Thomson Reuters e Domínio Sistemas são marcas de seus respectivos proprietários. Os projetos públicos acima são demonstrações independentes e não constituem produtos oficiais da Thomson Reuters.
 
@@ -89,40 +89,37 @@ Duas ferramentas desenvolvidas para apoiar rotinas reais de análise, preparaç�
 
 **Ferramenta independente para automatizar e simplificar a instalação do Microsoft Office utilizando recursos oficiais da Microsoft.**
 
-A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office Deployment Tool, validação de assinatura digital, verificação de pré-requisitos e confirmação real do resultado da instalação.
+A versão atual **v3** foi reescrita em C# e WPF, com Office Deployment Tool, validação de assinatura digital, verificação de pré-requisitos e confirmação real do resultado da instalação.
 
 `C#` `.NET 10` `WPF` `PowerShell` `Office Deployment Tool` `Windows APIs`
 
 <p>
-  <a href="https://github.com/TechnologySolutionCompany/Install-Office">
-    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-INSTALL%20OFFICE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Install Office" />
+  <a href="https://github.com/TechnologySolutionCompany/install-office">
+    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-INSTALL%20OFFICE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Install Office" />
   </a>
 </p>
 
-**Status:** 🟢 Em uso · 🌐 Versão pública disponível
+**Status:** 🟢 Em uso · 🌐 Código público disponível
 
-> A versão pública não inclui mecanismos de ativação não oficiais. A ativação deve ser realizada com licença válida ou mecanismos oficiais de licenciamento da Microsoft.
+> A versão pública não inclui mecanismos de ativação não oficiais, product keys ou servidores de ativação de terceiros.
 
 ---
 
 ## 📦 Outros projetos
 
-| Projeto | Contexto | Status | Repositório |
-|---|---|---|---|
-| **Hub Food** | **Plataforma de gestão de estoque de fardas** | 🟢 Em produção · 🔒 Privado | <a href="https://github.com/dev-estevao-miguel/hubfood-rh"><img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-PRIVADO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório privado Hub Food"></a> |
-| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🤝 Voluntário | 🛠️ Em organização |
-| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🤝 Voluntário | 🛠️ Em organização |
-| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo | 🔒 Privado |
-| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo | 🔒 Privado |
-| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🔒 Privado | 🔒 Privado |
+| Projeto | Contexto | Status público |
+|---|---|---|
+| **Hub Food** | Plataforma de gestão de estoque de fardas | 🟢 Em produção · 🔒 Código privado |
+| **Planejamento Financeiro** | Aplicação de organização e planejamento financeiro | 🛠️ Repositório público criado · conteúdo em organização |
+| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🛠️ Publicação em organização |
+| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🛠️ Publicação em organização |
+| **Evangelismo Solidário** | Tecnologia aplicada a ação social e controle de atendimentos | ✅ Projeto concluído · 🛠️ Publicação em organização |
+| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🛠️ Publicação em organização |
+| **TSCDesk — Reset AnyDesk** | Ferramenta de apoio e automação para suporte | 🛠️ Repositório público criado · conteúdo em organização |
+| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo |
+| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo |
 
-<p align="center">
-  <a href="https://github.com/dev-estevao-miguel/PortFolio">
-    <img src="https://img.shields.io/badge/VER%20PORTFÓLIO-PROJETOS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio completo" />
-  </a>
-</p>
-
-> 🔒 Alguns projetos corporativos permanecem privados por conterem regras de negócio, integrações ou informações internas. Quando aplicável, disponibilizo versões demonstrativas sanitizadas para portfólio.
+> 🔒 Projetos corporativos permanecem privados quando contêm regras de negócio, integrações ou informações internas. Quando aplicável, versões demonstrativas sanitizadas são preparadas para portfólio.
 
 ---
 
@@ -141,7 +138,7 @@ A versão atual **v3** foi reescrita em C# e WPF e automatiza o fluxo com Office
   <a href="https://www.linkedin.com/in/estev%C3%A3o-miguel-a22057171/">
     <img src="https://img.shields.io/badge/LinkedIn-Estevão%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Estevão dos Santos" />
   </a>
-  <a href="https://www.instagram.com/estevaomsantos.25?mdxt=c2JkM2owc3Mxb25v&utm_source=qr">
+  <a href="https://www.instagram.com/estevaomsantos.25">
     <img src="https://img.shields.io/badge/Instagram-@estevaomsantos.25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @estevaomsantos.25" />
   </a>
   <a href="https://github.com/TechnologySolutionCompany">
