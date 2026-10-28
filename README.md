@@ -110,12 +110,12 @@ A versão atual **v3** foi reescrita em C# e WPF, com Office Deployment Tool, va
 | Projeto | Contexto | Status público |
 |---|---|---|
 | **Hub Food** | Plataforma de gestão de estoque de fardas | 🟢 Em produção · 🔒 Código privado |
-| **Planejamento Financeiro** | Aplicação de organização e planejamento financeiro | 🛠️ Repositório público criado · conteúdo em organização |
-| **IEADPE — Escala Local** | Organização das escalas internas das congregações | 🟢 Em uso · 🛠️ Publicação em organização |
-| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · 🛠️ Publicação em organização |
-| **Evangelismo Solidário** | Tecnologia aplicada a ação social e controle de atendimentos | ✅ Projeto concluído · 🛠️ Publicação em organização |
-| **Sinc Trello** | Sincronização entre arquivos locais e demandas do Trello | 🟡 Em desenvolvimento · 🛠️ Publicação em organização |
-| **TSCDesk — Reset AnyDesk** | Ferramenta de apoio e automação para suporte | 🛠️ Repositório público criado · conteúdo em organização |
+| [**Planejamento Financeiro**](https://github.com/dev-estevao-miguel/planejamento-financeiro) | PWA de planejamento financeiro familiar · `Next.js` `Supabase` | 🟡 Em desenvolvimento · 🧪 Demo pública |
+| [**IEADPE — Escala Local**](https://github.com/dev-estevao-miguel/escala-local) | Organização das escalas internas das congregações · `SvelteKit` `PostgreSQL` | 🟢 Em uso · 🧪 Demo pública |
+| [**IEADPE — Eu Vou**](https://github.com/dev-estevao-miguel/eu-vou) | Plataforma de participação e engajamento da juventude · `React` `Supabase` | 🟡 Piloto · 🧪 Demo pública |
+| [**Evangelismo Solidário**](https://github.com/dev-estevao-miguel/evangelismo-solidario) | Tecnologia aplicada a ação social e controle de atendimentos · `JavaScript` | ✅ Concluído · 🧪 Demo pública |
+| [**Sinc Trello**](https://github.com/TechnologySolutionCompany/sinctrello) | Sincronização entre arquivos locais e demandas do Trello · `C#` `WPF` | 🟡 Em desenvolvimento · 🧪 Demo pública |
+| [**TSCDesk — Reset AnyDesk**](https://github.com/TechnologySolutionCompany/tscdesk-reset-anydesk) | Ferramenta de apoio e automação para suporte · `Python` | 🧪 Beta · 🌐 Código público |
 | **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo |
 | **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo |
 
