@@ -63,7 +63,7 @@ Os dois projetos mais completos do meu portfólio hoje são o **WebCond** e o **
 | **Plataforma web para gestão condominial.** Centraliza processos administrativos, unidades, moradores, cobranças, documentos, avisos, ocorrências e comunicação. | **Portal institucional da Technology Solution Company.** Responsável pela presença digital, serviços, posicionamento e identidade da TSCBr. |
 | `React` `Vite` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA` | `React` `Vite` `JavaScript` `CSS` `Vercel` |
 | 🟢 **Em produção · Evolução contínua** | 🟢 **Em produção · Em evolução** |
-| <a href="https://webcond.vercel.app"><img src="https://img.shields.io/badge/VER%20PROJETO-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver WebCond"></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/VER%20PROJETO-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Site TSCBr"></a> |
+| <a href="https://webcond.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver WebCond"></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/VER%20PROJETO-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Site TSCBr"></a> |
 | 🔒 Repositório privado | 🔒 Repositório privado |
 
 ---
@@ -107,17 +107,17 @@ A versão atual **v3** foi reescrita em C# e WPF, com Office Deployment Tool, va
 
 ## 📦 Outros projetos
 
-| Projeto | Contexto | Status público |
-|---|---|---|
-| **Hub Food** | Plataforma de gestão de estoque de fardas | 🟢 Em produção · 🔒 Código privado |
-| [**Planejamento Financeiro**](https://github.com/dev-estevao-miguel/planejamento-financeiro) | PWA de planejamento financeiro familiar · `Next.js` `Supabase` | 🟡 Em desenvolvimento · 🧪 Demo pública |
-| [**IEADPE — Escala Local**](https://github.com/dev-estevao-miguel/escala-local) | Organização das escalas internas das congregações · `SvelteKit` `PostgreSQL` | 🟢 Em uso · 🧪 Demo pública |
-| [**IEADPE — Eu Vou**](https://github.com/dev-estevao-miguel/eu-vou) | Plataforma de participação e engajamento da juventude · `React` `Supabase` | 🟡 Piloto · 🧪 Demo pública |
-| [**Evangelismo Solidário**](https://github.com/dev-estevao-miguel/evangelismo-solidario) | Tecnologia aplicada a ação social e controle de atendimentos · `JavaScript` | ✅ Concluído · 🧪 Demo pública |
-| [**Sinc Trello**](https://github.com/TechnologySolutionCompany/sinctrello) | Sincronização entre arquivos locais e demandas do Trello · `C#` `WPF` | 🟡 Em desenvolvimento · 🧪 Demo pública |
-| [**TSCDesk — Reset AnyDesk**](https://github.com/TechnologySolutionCompany/tscdesk-reset-anydesk) | Ferramenta de apoio e automação para suporte · `Python` | 🧪 Beta · 🌐 Código público |
-| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo |
-| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo |
+| Projeto | Contexto | Status público | Projeto |
+|---|---|---|---|
+| **Hub Food** | Plataforma de gestão de estoque de fardas | 🟢 Em produção · 🔒 Código privado | <a href="https://hubfood.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-ABRIR-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Hub Food"></a> |
+| [**Planejamento Financeiro**](https://github.com/dev-estevao-miguel/planejamento-financeiro) | PWA de planejamento financeiro familiar · `Next.js` `Supabase` | 🟡 Em desenvolvimento · 🧪 Demo pública | <a href="https://financeiro.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-ABRIR-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Planejamento Financeiro"></a> |
+| [**IEADPE — Escala Local**](https://github.com/dev-estevao-miguel/escala-local) | Organização das escalas internas das congregações · `SvelteKit` `PostgreSQL` | 🟢 Em uso · 🧪 Demo pública | <a href="https://escala.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-ABRIR-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Escala Local"></a> |
+| [**IEADPE — Eu Vou**](https://github.com/dev-estevao-miguel/eu-vou) | Plataforma de participação e engajamento da juventude · `React` `Supabase` | 🟡 Piloto · 🧪 Demo pública | <a href="https://euvou.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-ABRIR-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Eu Vou"></a> |
+| [**Evangelismo Solidário**](https://github.com/dev-estevao-miguel/evangelismo-solidario) | Tecnologia aplicada a ação social e controle de atendimentos · `JavaScript` | ✅ Concluído · 🧪 Demo pública | — |
+| [**Sinc Trello**](https://github.com/TechnologySolutionCompany/sinctrello) | Sincronização entre arquivos locais e demandas do Trello · `C#` `WPF` | 🟡 Em desenvolvimento · 🧪 Demo pública | — |
+| [**TSCDesk — Reset AnyDesk**](https://github.com/TechnologySolutionCompany/tscdesk-reset-anydesk) | Ferramenta de apoio e automação para suporte · `Python` | 🧪 Beta · 🌐 Código público | — |
+| **Implantta — Desenvolvimento de Relatórios** | Extensão interna para encaminhamento e acompanhamento de chamados | 🟢 Em uso · 🔒 Corporativo | — |
+| **Implantta — Suporte e Acompanhamento** | Extensão interna para organização do fluxo de suporte | 🟢 Em uso · 🔒 Corporativo | — |
 
 > 🔒 Projetos corporativos permanecem privados quando contêm regras de negócio, integrações ou informações internas. Quando aplicável, versões demonstrativas sanitizadas são preparadas para portfólio.
 
